@@ -1,0 +1,8 @@
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\bin\Debug\project 2.exe
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\bin\Debug\project 2.pdb
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\obj\x86\Debug\project_2.Form1.resources
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\obj\x86\Debug\project_2.Properties.Resources.resources
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\obj\x86\Debug\project 2.csproj.GenerateResource.Cache
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\obj\x86\Debug\project 2.exe
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\obj\x86\Debug\project 2.pdb
+C:\Users\kader\Desktop\PROJELER\project 2\project 2\obj\x86\Debug\project 2.csprojResolveAssemblyReference.cache
